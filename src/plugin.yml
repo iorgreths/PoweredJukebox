@@ -1,0 +1,6 @@
+name: PoweredJukebox
+main: me.Iorgreths.PoweredJukebox.PoweredJukebox
+version: 1.0
+description: This plugin let's you play a jukebox via redstone.
+author: Iorgreths
+authors: [Berny92, Iorgreths]
